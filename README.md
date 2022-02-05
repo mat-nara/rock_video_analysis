@@ -1,5 +1,5 @@
 # Rock video analysis
-
+<a href="https://nbviewer.org/github/mat-nara/rock_video_analysis/tree/master/">Voir le projet en ligne</p>
 ## Dépendance
 <ul>
     <li>Python 3 (recommander d'utiliser Anaconda)</li>
@@ -20,4 +20,3 @@
 <p>Pour entrainner vos propre modele, visiter : <a href="https://github.com/mat-nara/rock_classification.git">https://github.com/mat-nara/rock_classification.git</a>
 
 
-<a href="https://nbviewer.org/github/mat-nara/rock_video_analysis/tree/master/">Voir en ligne</p>

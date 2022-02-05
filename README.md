@@ -17,7 +17,7 @@
 </ol>
 
 ## Entrainnement d'un modele:
- https://github.com/mat-nara/rock_classification.git
+<p>Pour entrainner vos propre modele, visiter : <a href="https://github.com/mat-nara/rock_classification.git">https://github.com/mat-nara/rock_classification.git</a>
 
 
-<p>Voir en ligne : <a href="https://nbviewer.org/github/mat-nara/rock_video_analysis/tree/master/">https://nbviewer.org/github/mat-nara/rock_video_analysis/tree/master/</a></p>
+<a href="https://nbviewer.org/github/mat-nara/rock_video_analysis/tree/master/">Voir en ligne</p>

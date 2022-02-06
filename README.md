@@ -1,5 +1,6 @@
 # Rock video analysis
-<a href="https://nbviewer.org/github/mat-nara/rock_video_analysis/tree/master/">Voir le projet en ligne</p>
+<p><a href="https://nbviewer.org/github/mat-nara/rock_video_analysis/tree/master/">Voir le projet en ligne</p>
+
 ## Dépendance
 <ul>
     <li>Python 3 (recommander d'utiliser Anaconda)</li>

@@ -20,6 +20,6 @@
 </ol>
 
 ## Entrainnement d'un modele:
-<p>Pour entrainner vos propre modele, visiter : <a href="https://github.com/mat-nara/rock_classification.git">https://github.com/mat-nara/rock_classification.git</a>
+<p>Pour entrainner votre propre modele, visitez : <a href="https://github.com/mat-nara/rock_classification.git">https://github.com/mat-nara/rock_classification.git</a>
 
 

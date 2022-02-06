@@ -1,5 +1,7 @@
 # Rock video analysis
-<p><a href="https://nbviewer.org/github/mat-nara/rock_video_analysis/tree/master/">Voir le projet en ligne</p>
+<p>
+    <a href="https://nbviewer.org/github/mat-nara/rock_video_analysis/tree/master/">Voir le projet en ligne</a>
+</p>
 
 ## Dépendance
 <ul>
